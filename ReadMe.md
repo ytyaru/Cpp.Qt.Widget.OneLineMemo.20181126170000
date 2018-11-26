@@ -6,17 +6,17 @@
 
 # 参考
 
-* [https://sites.google.com/site/drtomotomos/development/qt/file:title]
-* [https://www.hirominomi.com/writefile/#i-3:title]
-* [http://cococoron964.blog9.fc2.com/blog-entry-42.html:title]
-* [http://tips.crosslaboratory.com/post/qt_widget_size_does_not_change/:title]
+* https://sites.google.com/site/drtomotomos/development/qt/file
+* https://www.hirominomi.com/writefile/#i-3
+* http://cococoron964.blog9.fc2.com/blog-entry-42.html
+* http://tips.crosslaboratory.com/post/qt_widget_size_does_not_change/
 
 ## Qt要素
 
-* [http://doc.qt.io/qt-5/qfile.html:title]
-* [http://doc.qt.io/qt-5/qdir.html:title]
-* [http://doc.qt.io/qt-5/qtextstream.html:title]
-* [http://doc.qt.io/qt-5/qmessagebox.html:title]
+* http://doc.qt.io/qt-5/qfile.html
+* http://doc.qt.io/qt-5/qdir.html
+* http://doc.qt.io/qt-5/qtextstream.html
+* http://doc.qt.io/qt-5/qmessagebox.html
 
 # 開発環境
 
